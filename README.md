@@ -1,5 +1,5 @@
 # Samir KANINE
-*An Aspiring Data Scientist*
+*Data Scientist Junior*
 
 # Education
 * Diplome Universitaire "Conception et Management des Projets Numériques", *Université de Saclay/Matrice*, 2020-2021
