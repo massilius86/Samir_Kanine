@@ -11,11 +11,7 @@
 * Maîtrise de Biochimie, option Immunologie, Université d'Ai-Marseille I, 1991-92
 
 # [Project 1: name of the project]
-
-This project ...
-* **Python libraries used:** 
-* **Input:** 
-* **Output:** 
+![alt text](luke-chesser-JKUTrJ4vK00-unsplash.jpg)
 
 Photo by 
  <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
@@ -24,6 +20,11 @@ Photo by
  <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
    Unsplash
  </a>
+
+This project ...
+* **Python libraries used:** 
+* **Input:** 
+* **Output:** 
 
 # [Project 2: name of the project]
 
