@@ -17,13 +17,6 @@ This project ...
 * **Input:** 
 * **Output:** 
 
-# [Project 2: name of the project]
-
-This project ...
-* **Python libraries used:** 
-* **Input:** 
-* **Output:** 
-
 Photo by 
  <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
    André François McKenzie
@@ -31,3 +24,10 @@ Photo by
  <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
    Unsplash
  </a>
+
+# [Project 2: name of the project]
+
+This project ...
+* **Python libraries used:** 
+* **Input:** 
+* **Output:** 
