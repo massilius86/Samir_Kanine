@@ -8,7 +8,7 @@
 * Introduction to Data Science in Python - University of Michigan, USA, *Coursera*, 2020
 * Python for Everybody - *Coursera*, University of Michigan, USA, 2015
 * Licence Professionnelle Nouvelles Technologies de l'Information, Université d'Ai-Marseille I, 2002-2003
-* Maîtrise de Biochimie, option Immunologie, Université d'Ai-Marseille I, 1991-92
+* Maîtrise de Biochimie, option Immunologie, Université d'Ai-Marseille II, 1991-92
 
 # [Project 1: name of the project]
 ![alt text](luke-chesser-JKUTrJ4vK00-unsplash.jpg)
